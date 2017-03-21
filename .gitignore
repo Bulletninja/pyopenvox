@@ -1,0 +1,3 @@
+#ignore yaml config files
+*.yaml
+*.yml
